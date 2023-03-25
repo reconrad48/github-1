@@ -38,9 +38,6 @@ def custom_code(obj):
     else:
         return "{}".format(obj)
 
-def convert_to_code(items):
-    return list(map(custom_code, items))
-
 wb = Workbook()
 ws = wb.active
 
