@@ -12,8 +12,8 @@ from openpyxl import Workbook
 from datetime import datetime
 
 
-
-textrazor.api_key = "37d4XXXXXXXXXXXXXYYYYYYYYYYYYYYYYYYYYYHHHHHHHHHHHH" #my real API masked
+TEXTRAZOR_API_KEY = "37dXXXXXXXXXXXXXXXXYYYYYYYYYYYHHHHHHHHHHHGGGGGGGGGG"
+textrazor.api_key = TEXTRAZOR_API_KEY #my real API masked
 client = textrazor.TextRazor()
 # textrazor.api_key = ''
 
