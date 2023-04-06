@@ -20,11 +20,11 @@ client = textrazor.TextRazor()
 # Specify the keyword
 keyword = "hardwood floor refinishing los angeles"
 urls = [
-    'https://cmchardwoodfloors.com/',
-    'https://almahdihardwoodflooring.com/service/hardwood-flooring-refinishing-la/',
-    'https://www.carterwoodfloors.com/hardwood-floor-refinishing.php',
-    'https://www.kandzhardwoodflooring.com/refinishing-repair',
-    'https://www.custom-hardwood-flooring.com/refinishing/'
+    '',
+    '',
+    '',
+    '',
+    ''
 ]
 
 #def sanitize_filename(filename):
